@@ -4,7 +4,7 @@ I'm Leandro Silva, an experienced iOS Developer with a passion for creating inno
 
 ## 👨‍💻 About Me
 
-- 🚀 2+ years of hands-on experience in iOS development, specializing in Swift and Objective-C.
+- 🚀 1+ years of hands-on experience in iOS development, specializing in Swift and Objective-C.
 - 🌐 Worked on international projects, collaborating with diverse teams to deliver cutting-edge mobile solutions.
 - 📱 Developed robust iOS applications with a focus on performance, scalability, and user experience.
 - 🤖 Explored and implemented various design patterns and architectural approaches to create maintainable code.
