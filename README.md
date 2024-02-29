@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Leandro Silva, an experienced iOS Developer with a passion for creating innovative and user-friendly mobile applications. My journey in the tech world goes beyond coding, as I'm a firm believer in the power of collaboration, exploration, and continuous learning.
+I'm Leandro Silva, an iOS Developer with a passion for creating innovative and user-friendly mobile applications. My journey in the tech world goes beyond coding, as I'm a firm believer in the power of collaboration, exploration, and continuous learning.
 
 ## 👨‍💻 About Me
 
